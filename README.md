@@ -137,7 +137,3 @@ The model outputs a binary classification based on the blood smear image uploade
 
 Feel free to raise issues or contribute by submitting a pull request.
 Star ⭐ the repo if you find it useful!
-
-```
-
- 
