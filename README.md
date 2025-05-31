@@ -27,7 +27,7 @@ This is a Flask-based web application that uses a trained deep learning model to
 - **Dataset Source:** [Shahriar26s on Kaggle](https://www.kaggle.com/datasets/shahriar26s/malaria-detection/data)
 - **Input Shape:** 224x224 RGB images
 
-You can find the full training pipeline in [`model_training.ipynb`](./model_training.ipynb).
+You can find the full training pipeline in [`Malaria Detection.ipynb`](./model_training.ipynb).
 
 ---
 
@@ -37,10 +37,6 @@ You can find the full training pipeline in [`model_training.ipynb`](./model_trai
 - **ML Model:** PyTorch, torchvision
 - **Deployment:** Heroku
 - **Frontend:** HTML (Jinja2 templating)
-
----
-
-Sure! Here's the **Markdown** version starting from **"How to Run Locally"** through the rest of the README — you can copy and paste this directly into your `README.md` file:
 
 ---
 
@@ -116,8 +112,6 @@ The notebook includes:
 * Evaluation on validation data.
 * Saving the final trained model (`malaria_resnet18.pth`) for deployment.
 
-You can upload this notebook to the repository. It will not affect the app functionality, as it is not used during runtime.
-
 ---
 
 ## 🔎 Labels and Prediction
@@ -144,11 +138,6 @@ The model outputs a binary classification based on the blood smear image uploade
 Feel free to raise issues or contribute by submitting a pull request.
 Star ⭐ the repo if you find it useful!
 
-```
-
----
-
-Let me know if you'd like a badge section or a GitHub banner suggestion for a more polished look!
 ```
 
  
